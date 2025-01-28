@@ -20,5 +20,6 @@ indexes:
 - kind: Commit
   ancestor: yes
   properties:
-  - name: Time
-    direction: desc
+  - name: nochat
+    direction: debugging 
+esc
